@@ -1,0 +1,701 @@
+dealer_id,dealer_name,region,state,journey_stage
+D001,Cascade CDJR,South,FL,Onboarding
+D002,Peachtree CDJR,Northeast,PA,At-Risk
+D003,Acadia CDJR,South,NC,At-Risk
+D004,Hudson CDJR,Northeast,PA,Ramp
+D005,Frontier CDJR,Northeast,VT,Ramp
+D006,Pioneer CDJR,West,MT,Mature
+D007,Coastal CDJR,West,WY,Steady State
+D008,River Valley CDJR,West,OR,At-Risk
+D009,Prairie CDJR,West,CA,Onboarding
+D010,Pioneer CDJR,Midwest,MO,Ramp
+D011,Trailhead CDJR,South,AL,Steady State
+D012,Peachtree CDJR,South,DC,Steady State
+D013,Granite CDJR,Midwest,NE,Ramp
+D014,Pioneer CDJR,Midwest,WI,Steady State
+D015,Desert CDJR,South,DC,Steady State
+D016,High Plains CDJR,Northeast,NJ,Mature
+D017,Bluegrass CDJR,South,LA,Ramp
+D018,Lakeside CDJR,Midwest,IN,Steady State
+D019,Sierra CDJR,Midwest,ND,Ramp
+D020,Acadia CDJR,South,MD,Steady State
+D021,Lakeside CDJR,West,WY,Mature
+D022,Frontier CDJR,West,AZ,Mature
+D023,Prairie CDJR,West,ID,Mature
+D024,Twin Cities CDJR,Northeast,CT,Ramp
+D025,High Plains CDJR,Northeast,MA,Ramp
+D026,Capital CDJR,South,GA,Steady State
+D027,Trailhead CDJR,Northeast,NH,Onboarding
+D028,Capital CDJR,West,NM,Ramp
+D029,Summit CDJR,Northeast,MA,Steady State
+D030,Sierra CDJR,South,GA,Onboarding
+D031,Evergreen CDJR,West,WA,At-Risk
+D032,Bluegrass CDJR,Northeast,PA,Mature
+D033,Desert CDJR,Northeast,CT,Ramp
+D034,Trailhead CDJR,South,MS,Onboarding
+D035,Granite CDJR,Midwest,NE,Ramp
+D036,Metro CDJR,West,CO,Onboarding
+D037,Metro CDJR,Northeast,MA,At-Risk
+D038,Summit CDJR,South,DE,Steady State
+D039,Desert CDJR,Northeast,CT,Mature
+D040,Peachtree CDJR,South,TX,Steady State
+D041,Summit CDJR,Northeast,NY,Ramp
+D042,Metro CDJR,Midwest,IN,Ramp
+D043,High Plains CDJR,Northeast,VT,Steady State
+D044,Liberty CDJR,West,NM,Ramp
+D045,Red Rock CDJR,Midwest,OH,Steady State
+D046,Sierra CDJR,Northeast,MA,Steady State
+D047,Sierra CDJR,Midwest,MI,At-Risk
+D048,Summit CDJR,Northeast,CT,Mature
+D049,Red Rock CDJR,South,GA,Ramp
+D050,Granite CDJR,Midwest,IA,Steady State
+D051,Lone Star CDJR,Midwest,KS,Onboarding
+D052,River Valley CDJR,West,AZ,Mature
+D053,Sierra CDJR,Midwest,KS,Ramp
+D054,Lone Star CDJR,Midwest,KS,Steady State
+D055,Prairie CDJR,Northeast,RI,Ramp
+D056,Sierra CDJR,Northeast,RI,Ramp
+D057,Pioneer CDJR,South,TX,Ramp
+D058,Lakeside CDJR,South,MD,Steady State
+D059,Frontier CDJR,Northeast,CT,Mature
+D060,Cascade CDJR,Northeast,RI,Onboarding
+D061,Hudson CDJR,Midwest,IL,Onboarding
+D062,Pioneer CDJR,South,MD,Onboarding
+D063,Heritage CDJR,South,MD,Ramp
+D064,Liberty CDJR,Northeast,MA,Ramp
+D065,Peachtree CDJR,Northeast,RI,Ramp
+D066,Twin Cities CDJR,South,TN,Steady State
+D067,River Valley CDJR,West,WA,Steady State
+D068,Trailhead CDJR,West,NM,Steady State
+D069,High Plains CDJR,Midwest,MO,Onboarding
+D070,Granite CDJR,South,TN,Mature
+D071,Capital CDJR,Midwest,OH,Steady State
+D072,Acadia CDJR,West,OR,Mature
+D073,Heritage CDJR,Northeast,NJ,Steady State
+D074,Lone Star CDJR,Midwest,OH,Ramp
+D075,Oak Ridge CDJR,Northeast,ME,Ramp
+D076,Trailhead CDJR,Midwest,IL,Mature
+D077,Desert CDJR,West,NV,Steady State
+D078,Peachtree CDJR,Midwest,IL,Steady State
+D079,Capital CDJR,South,LA,Mature
+D080,High Plains CDJR,Northeast,NJ,Ramp
+D081,Lone Star CDJR,West,WY,Ramp
+D082,Frontier CDJR,South,SC,At-Risk
+D083,Gulf Coast CDJR,South,GA,Onboarding
+D084,Bluegrass CDJR,West,CA,Ramp
+D085,Prairie CDJR,South,AR,Steady State
+D086,Liberty CDJR,Midwest,MI,Ramp
+D087,Summit CDJR,West,HI,Ramp
+D088,Bluegrass CDJR,Northeast,CT,Steady State
+D089,Lone Star CDJR,West,CA,Ramp
+D090,Liberty CDJR,West,HI,Steady State
+D091,Frontier CDJR,Midwest,OH,Steady State
+D092,Evergreen CDJR,Midwest,MI,At-Risk
+D093,Heritage CDJR,South,OK,Onboarding
+D094,Metro CDJR,Midwest,SD,Ramp
+D095,Desert CDJR,West,NV,Steady State
+D096,Cascade CDJR,Northeast,ME,Ramp
+D097,Evergreen CDJR,Midwest,SD,Onboarding
+D098,Peachtree CDJR,West,NM,Steady State
+D099,Trailhead CDJR,South,SC,At-Risk
+D100,Twin Cities CDJR,West,WA,Steady State
+D101,Summit CDJR,West,WY,Ramp
+D102,Sierra CDJR,Midwest,IN,Ramp
+D103,Bluegrass CDJR,West,MT,Steady State
+D104,Hudson CDJR,Northeast,RI,Steady State
+D105,Heritage CDJR,South,NC,Steady State
+D106,Prairie CDJR,South,AR,At-Risk
+D107,Prairie CDJR,Northeast,CT,Mature
+D108,Trailhead CDJR,West,NV,Steady State
+D109,Cascade CDJR,West,AK,Steady State
+D110,Frontier CDJR,Midwest,MI,Steady State
+D111,Great Lakes CDJR,West,CA,Onboarding
+D112,Great Lakes CDJR,South,GA,Steady State
+D113,High Plains CDJR,Midwest,MO,Onboarding
+D114,Lakeside CDJR,Northeast,NJ,At-Risk
+D115,Liberty CDJR,Midwest,IL,Onboarding
+D116,Bluegrass CDJR,South,WV,Ramp
+D117,Acadia CDJR,Midwest,IL,Steady State
+D118,Evergreen CDJR,Midwest,KS,Steady State
+D119,Prairie CDJR,South,MD,Steady State
+D120,Gulf Coast CDJR,South,GA,Ramp
+D121,Granite CDJR,Northeast,PA,At-Risk
+D122,Pioneer CDJR,West,AZ,Steady State
+D123,Hudson CDJR,West,AK,Mature
+D124,Pioneer CDJR,Northeast,MA,Onboarding
+D125,Heritage CDJR,Northeast,MA,Onboarding
+D126,Hudson CDJR,South,TX,Steady State
+D127,Red Rock CDJR,West,CO,Mature
+D128,Gulf Coast CDJR,Northeast,PA,Ramp
+D129,Liberty CDJR,South,SC,At-Risk
+D130,Coastal CDJR,South,GA,Ramp
+D131,Desert CDJR,West,AZ,Onboarding
+D132,Coastal CDJR,West,OR,Steady State
+D133,Oak Ridge CDJR,Midwest,KS,Ramp
+D134,Great Lakes CDJR,Northeast,VT,Steady State
+D135,Cascade CDJR,West,UT,Steady State
+D136,Granite CDJR,Northeast,VT,Ramp
+D137,Sierra CDJR,South,AL,Ramp
+D138,Acadia CDJR,Midwest,MO,Mature
+D139,Peachtree CDJR,Midwest,IL,Steady State
+D140,Lakeside CDJR,West,CO,Onboarding
+D141,River Valley CDJR,West,NV,Mature
+D142,Capital CDJR,Northeast,ME,Onboarding
+D143,Peachtree CDJR,Midwest,WI,At-Risk
+D144,Summit CDJR,South,OK,Mature
+D145,Heritage CDJR,Midwest,MN,Ramp
+D146,Oak Ridge CDJR,West,ID,Steady State
+D147,River Valley CDJR,South,DC,Onboarding
+D148,Red Rock CDJR,Midwest,IN,Ramp
+D149,Metro CDJR,Northeast,CT,Steady State
+D150,Desert CDJR,Northeast,NY,At-Risk
+D151,Prairie CDJR,Northeast,NY,Ramp
+D152,Desert CDJR,Northeast,NJ,Steady State
+D153,Coastal CDJR,Northeast,NJ,Ramp
+D154,Frontier CDJR,Northeast,CT,Mature
+D155,Frontier CDJR,South,MD,Ramp
+D156,Gulf Coast CDJR,Midwest,NE,At-Risk
+D157,River Valley CDJR,South,TN,Steady State
+D158,Hudson CDJR,West,WA,Mature
+D159,Acadia CDJR,South,TX,Onboarding
+D160,Red Rock CDJR,Midwest,IL,At-Risk
+D161,Trailhead CDJR,Northeast,ME,Ramp
+D162,Great Lakes CDJR,South,KY,Steady State
+D163,Prairie CDJR,Northeast,CT,Onboarding
+D164,Summit CDJR,Northeast,ME,Mature
+D165,Twin Cities CDJR,West,OR,Ramp
+D166,Liberty CDJR,Midwest,SD,Onboarding
+D167,Trailhead CDJR,West,CO,Ramp
+D168,Prairie CDJR,Midwest,WI,Steady State
+D169,Lone Star CDJR,Northeast,RI,Ramp
+D170,Pioneer CDJR,Northeast,NJ,Mature
+D171,Hudson CDJR,Midwest,IA,Steady State
+D172,Gulf Coast CDJR,Midwest,KS,Steady State
+D173,Peachtree CDJR,West,UT,Ramp
+D174,Lakeside CDJR,South,MD,Steady State
+D175,Capital CDJR,Northeast,ME,Onboarding
+D176,Prairie CDJR,Midwest,MN,Steady State
+D177,Bluegrass CDJR,Midwest,NE,Onboarding
+D178,Metro CDJR,Northeast,MA,Ramp
+D179,Liberty CDJR,Northeast,CT,Steady State
+D180,Red Rock CDJR,Northeast,RI,At-Risk
+D181,High Plains CDJR,Northeast,NH,Steady State
+D182,Great Lakes CDJR,Midwest,SD,Steady State
+D183,River Valley CDJR,West,UT,Mature
+D184,Lone Star CDJR,West,HI,Mature
+D185,Cascade CDJR,South,WV,Steady State
+D186,Great Lakes CDJR,West,OR,At-Risk
+D187,Summit CDJR,Midwest,IN,Steady State
+D188,Summit CDJR,West,CO,Mature
+D189,Twin Cities CDJR,West,ID,Steady State
+D190,Pioneer CDJR,South,NC,At-Risk
+D191,Oak Ridge CDJR,West,NV,Steady State
+D192,Lakeside CDJR,Northeast,NJ,Steady State
+D193,River Valley CDJR,Northeast,MA,Ramp
+D194,Capital CDJR,West,AZ,Onboarding
+D195,Sierra CDJR,West,AK,Ramp
+D196,Hudson CDJR,Midwest,MN,Steady State
+D197,Capital CDJR,Midwest,ND,Steady State
+D198,Lakeside CDJR,South,AL,Ramp
+D199,Granite CDJR,South,VA,Steady State
+D200,Twin Cities CDJR,South,LA,Ramp
+D201,Acadia CDJR,Midwest,OH,At-Risk
+D202,Peachtree CDJR,South,AL,Steady State
+D203,Pioneer CDJR,Northeast,NY,Onboarding
+D204,Gulf Coast CDJR,Midwest,ND,Mature
+D205,Heritage CDJR,Midwest,IN,Onboarding
+D206,Lakeside CDJR,Northeast,ME,Onboarding
+D207,Summit CDJR,West,AK,Ramp
+D208,Hudson CDJR,Midwest,ND,Ramp
+D209,Bluegrass CDJR,Midwest,NE,Ramp
+D210,Trailhead CDJR,West,AZ,At-Risk
+D211,Hudson CDJR,Northeast,MA,Steady State
+D212,Red Rock CDJR,Northeast,VT,Onboarding
+D213,Evergreen CDJR,West,OR,Ramp
+D214,Great Lakes CDJR,Northeast,PA,Steady State
+D215,Capital CDJR,West,AK,Steady State
+D216,Lakeside CDJR,West,MT,Onboarding
+D217,Hudson CDJR,West,MT,Ramp
+D218,Heritage CDJR,Midwest,NE,Steady State
+D219,Prairie CDJR,Midwest,MN,Onboarding
+D220,Summit CDJR,West,NM,Ramp
+D221,Gulf Coast CDJR,South,MS,Steady State
+D222,Twin Cities CDJR,West,CO,At-Risk
+D223,Frontier CDJR,South,NC,Steady State
+D224,Prairie CDJR,Northeast,NY,Steady State
+D225,Metro CDJR,Midwest,WI,Steady State
+D226,Lone Star CDJR,Northeast,ME,Onboarding
+D227,Trailhead CDJR,Midwest,SD,Steady State
+D228,Lone Star CDJR,South,SC,Steady State
+D229,High Plains CDJR,Midwest,NE,Steady State
+D230,Capital CDJR,South,FL,Ramp
+D231,Sierra CDJR,West,NV,Ramp
+D232,Gulf Coast CDJR,West,HI,Steady State
+D233,River Valley CDJR,Northeast,NJ,Mature
+D234,Lone Star CDJR,West,CA,Steady State
+D235,Frontier CDJR,South,FL,Steady State
+D236,Pioneer CDJR,South,FL,Mature
+D237,Lakeside CDJR,Midwest,IA,Steady State
+D238,River Valley CDJR,West,UT,Onboarding
+D239,Peachtree CDJR,Midwest,WI,Steady State
+D240,Red Rock CDJR,Northeast,CT,Ramp
+D241,Great Lakes CDJR,South,SC,Ramp
+D242,Prairie CDJR,West,NV,Ramp
+D243,Liberty CDJR,Northeast,MA,Steady State
+D244,Cascade CDJR,Midwest,IA,Steady State
+D245,Red Rock CDJR,South,DE,Steady State
+D246,Peachtree CDJR,West,NV,Mature
+D247,Frontier CDJR,West,OR,Onboarding
+D248,Coastal CDJR,West,ID,Ramp
+D249,Coastal CDJR,West,HI,Mature
+D250,Capital CDJR,West,CA,Onboarding
+D251,High Plains CDJR,West,AZ,Onboarding
+D252,High Plains CDJR,Midwest,IN,Ramp
+D253,Capital CDJR,West,WY,Onboarding
+D254,Frontier CDJR,South,AR,Steady State
+D255,Lakeside CDJR,West,WY,Steady State
+D256,Liberty CDJR,South,TN,Ramp
+D257,Prairie CDJR,West,NM,Ramp
+D258,Lakeside CDJR,West,OR,Steady State
+D259,Red Rock CDJR,West,WA,Ramp
+D260,Evergreen CDJR,Northeast,NH,Onboarding
+D261,Bluegrass CDJR,South,TX,Steady State
+D262,High Plains CDJR,Northeast,CT,Ramp
+D263,Bluegrass CDJR,West,AZ,Ramp
+D264,Twin Cities CDJR,West,AK,Mature
+D265,Trailhead CDJR,South,DC,Mature
+D266,Metro CDJR,West,AZ,At-Risk
+D267,Capital CDJR,West,WY,At-Risk
+D268,Coastal CDJR,South,AL,Steady State
+D269,Twin Cities CDJR,South,GA,Ramp
+D270,Desert CDJR,South,KY,Ramp
+D271,Pioneer CDJR,Midwest,MO,Ramp
+D272,Trailhead CDJR,West,CO,Steady State
+D273,Heritage CDJR,Northeast,NJ,At-Risk
+D274,Frontier CDJR,South,DE,Steady State
+D275,Sierra CDJR,West,OR,Steady State
+D276,Frontier CDJR,Northeast,PA,Steady State
+D277,River Valley CDJR,South,AL,Mature
+D278,Trailhead CDJR,Midwest,IA,Steady State
+D279,Metro CDJR,West,NV,Steady State
+D280,Peachtree CDJR,South,NC,Steady State
+D281,Hudson CDJR,South,VA,Steady State
+D282,Evergreen CDJR,West,CO,Steady State
+D283,Capital CDJR,Midwest,MI,Onboarding
+D284,Frontier CDJR,Midwest,NE,Steady State
+D285,Lone Star CDJR,West,MT,Mature
+D286,Summit CDJR,Northeast,NY,Onboarding
+D287,Twin Cities CDJR,West,AK,Ramp
+D288,Great Lakes CDJR,Midwest,ND,Mature
+D289,High Plains CDJR,Midwest,MN,Ramp
+D290,Lakeside CDJR,West,CA,Ramp
+D291,Prairie CDJR,West,WY,Mature
+D292,Summit CDJR,Midwest,OH,Ramp
+D293,Heritage CDJR,Northeast,NH,Ramp
+D294,Liberty CDJR,Northeast,PA,Steady State
+D295,Acadia CDJR,Midwest,WI,Onboarding
+D296,Acadia CDJR,Midwest,IA,At-Risk
+D297,Oak Ridge CDJR,West,HI,Ramp
+D298,Metro CDJR,Midwest,OH,Onboarding
+D299,Frontier CDJR,Midwest,IL,Steady State
+D300,Acadia CDJR,West,WY,Ramp
+D301,Coastal CDJR,West,HI,Onboarding
+D302,Coastal CDJR,South,FL,Onboarding
+D303,Liberty CDJR,Midwest,NE,Mature
+D304,Prairie CDJR,West,OR,Ramp
+D305,Hudson CDJR,West,NM,Steady State
+D306,Capital CDJR,South,AL,Ramp
+D307,Twin Cities CDJR,South,KY,Steady State
+D308,Desert CDJR,West,WA,Steady State
+D309,Frontier CDJR,West,MT,Steady State
+D310,Summit CDJR,Midwest,ND,Onboarding
+D311,Gulf Coast CDJR,Midwest,KS,Onboarding
+D312,Pioneer CDJR,Northeast,RI,Steady State
+D313,Coastal CDJR,Northeast,NJ,Ramp
+D314,Pioneer CDJR,Midwest,MI,At-Risk
+D315,Heritage CDJR,West,MT,Ramp
+D316,Gulf Coast CDJR,Midwest,WI,Steady State
+D317,Frontier CDJR,Northeast,ME,Steady State
+D318,Metro CDJR,Midwest,MO,Ramp
+D319,Pioneer CDJR,Midwest,NE,Steady State
+D320,Heritage CDJR,Northeast,VT,Onboarding
+D321,Great Lakes CDJR,Midwest,WI,Ramp
+D322,Summit CDJR,West,CA,Mature
+D323,Coastal CDJR,West,CA,Onboarding
+D324,Granite CDJR,West,CO,Onboarding
+D325,Peachtree CDJR,Midwest,ND,Mature
+D326,Twin Cities CDJR,South,FL,Steady State
+D327,Metro CDJR,South,GA,Steady State
+D328,River Valley CDJR,Northeast,NY,Onboarding
+D329,Coastal CDJR,South,AR,Steady State
+D330,Desert CDJR,West,ID,Mature
+D331,Sierra CDJR,Northeast,NJ,Steady State
+D332,Peachtree CDJR,Northeast,ME,Ramp
+D333,Desert CDJR,South,SC,Onboarding
+D334,High Plains CDJR,South,LA,Ramp
+D335,Capital CDJR,Midwest,OH,Mature
+D336,Gulf Coast CDJR,South,SC,Onboarding
+D337,Red Rock CDJR,West,OR,Ramp
+D338,Metro CDJR,Midwest,ND,Mature
+D339,Peachtree CDJR,West,WA,Steady State
+D340,Peachtree CDJR,Northeast,ME,Onboarding
+D341,Pioneer CDJR,Northeast,MA,Ramp
+D342,Great Lakes CDJR,Midwest,IN,Onboarding
+D343,Acadia CDJR,West,WA,Steady State
+D344,Coastal CDJR,West,AZ,Steady State
+D345,Gulf Coast CDJR,South,AL,Steady State
+D346,Red Rock CDJR,South,TX,Steady State
+D347,Great Lakes CDJR,Midwest,SD,Steady State
+D348,Pioneer CDJR,Northeast,NJ,Ramp
+D349,Liberty CDJR,West,CO,Onboarding
+D350,Red Rock CDJR,Northeast,MA,Onboarding
+D351,Capital CDJR,West,UT,Mature
+D352,River Valley CDJR,Midwest,IA,Ramp
+D353,River Valley CDJR,South,DE,Steady State
+D354,Capital CDJR,Midwest,IL,Steady State
+D355,Lakeside CDJR,Midwest,MN,Ramp
+D356,High Plains CDJR,South,DC,Steady State
+D357,Cascade CDJR,Northeast,PA,Steady State
+D358,High Plains CDJR,West,NM,Ramp
+D359,High Plains CDJR,South,OK,Ramp
+D360,Desert CDJR,Northeast,PA,Ramp
+D361,Prairie CDJR,Midwest,MI,Onboarding
+D362,Oak Ridge CDJR,West,CO,Mature
+D363,Peachtree CDJR,West,WY,Ramp
+D364,Desert CDJR,South,GA,Onboarding
+D365,Granite CDJR,Northeast,RI,Ramp
+D366,Heritage CDJR,Midwest,OH,Onboarding
+D367,Twin Cities CDJR,Midwest,OH,Steady State
+D368,Evergreen CDJR,Midwest,SD,Ramp
+D369,Heritage CDJR,Midwest,KS,Onboarding
+D370,Pioneer CDJR,Northeast,CT,Onboarding
+D371,Lone Star CDJR,Midwest,KS,Ramp
+D372,Pioneer CDJR,West,WA,Ramp
+D373,Coastal CDJR,Midwest,SD,Steady State
+D374,Evergreen CDJR,South,MS,Steady State
+D375,Bluegrass CDJR,South,MD,Onboarding
+D376,River Valley CDJR,Midwest,KS,Ramp
+D377,Great Lakes CDJR,Midwest,OH,Mature
+D378,Peachtree CDJR,West,CO,Steady State
+D379,Prairie CDJR,Midwest,IL,Steady State
+D380,Heritage CDJR,Midwest,MO,Steady State
+D381,Twin Cities CDJR,Midwest,MI,Steady State
+D382,Bluegrass CDJR,Midwest,MN,Mature
+D383,Pioneer CDJR,West,WY,Onboarding
+D384,Red Rock CDJR,South,TX,Steady State
+D385,Desert CDJR,South,DE,Ramp
+D386,Summit CDJR,Midwest,WI,At-Risk
+D387,Metro CDJR,Midwest,OH,At-Risk
+D388,Evergreen CDJR,Northeast,MA,Mature
+D389,Acadia CDJR,Northeast,NH,Steady State
+D390,Liberty CDJR,South,NC,Onboarding
+D391,High Plains CDJR,South,MD,Mature
+D392,Acadia CDJR,Midwest,KS,Steady State
+D393,Sierra CDJR,West,CO,Onboarding
+D394,Sierra CDJR,Northeast,NJ,Onboarding
+D395,Capital CDJR,West,CO,Ramp
+D396,Sierra CDJR,Midwest,NE,Steady State
+D397,Desert CDJR,Midwest,MN,Onboarding
+D398,Summit CDJR,Midwest,SD,Steady State
+D399,Peachtree CDJR,Midwest,NE,Onboarding
+D400,Prairie CDJR,South,MD,Ramp
+D401,Red Rock CDJR,Midwest,ND,Onboarding
+D402,High Plains CDJR,Northeast,RI,Mature
+D403,Heritage CDJR,South,TN,Onboarding
+D404,River Valley CDJR,Midwest,IA,Steady State
+D405,Lakeside CDJR,South,GA,Steady State
+D406,Liberty CDJR,Midwest,SD,Ramp
+D407,Summit CDJR,Northeast,PA,Ramp
+D408,Great Lakes CDJR,Midwest,IL,Steady State
+D409,Desert CDJR,Northeast,MA,Ramp
+D410,Oak Ridge CDJR,South,KY,Ramp
+D411,Cascade CDJR,West,AZ,Mature
+D412,Metro CDJR,South,AR,Steady State
+D413,Desert CDJR,Northeast,RI,Onboarding
+D414,Trailhead CDJR,South,MS,Steady State
+D415,Metro CDJR,Midwest,IN,Ramp
+D416,Bluegrass CDJR,West,AK,Onboarding
+D417,Evergreen CDJR,Northeast,CT,Ramp
+D418,Red Rock CDJR,Northeast,NJ,At-Risk
+D419,Peachtree CDJR,Northeast,ME,Steady State
+D420,Sierra CDJR,Northeast,PA,At-Risk
+D421,Twin Cities CDJR,Midwest,IL,Onboarding
+D422,River Valley CDJR,Midwest,IL,Ramp
+D423,Granite CDJR,Northeast,ME,At-Risk
+D424,Trailhead CDJR,Northeast,NH,At-Risk
+D425,Acadia CDJR,Northeast,PA,Ramp
+D426,River Valley CDJR,South,GA,Steady State
+D427,Frontier CDJR,Northeast,MA,Ramp
+D428,Desert CDJR,Midwest,IL,At-Risk
+D429,Lakeside CDJR,Midwest,MO,Steady State
+D430,Prairie CDJR,South,SC,Steady State
+D431,Oak Ridge CDJR,South,FL,Steady State
+D432,Frontier CDJR,Midwest,IL,Ramp
+D433,Evergreen CDJR,West,ID,Ramp
+D434,Sierra CDJR,West,CO,Steady State
+D435,Gulf Coast CDJR,South,FL,Ramp
+D436,High Plains CDJR,Midwest,MO,Steady State
+D437,Frontier CDJR,South,VA,Steady State
+D438,Twin Cities CDJR,Midwest,IN,Mature
+D439,Bluegrass CDJR,West,WA,Mature
+D440,Metro CDJR,South,TN,Onboarding
+D441,Great Lakes CDJR,Northeast,NH,At-Risk
+D442,Capital CDJR,West,AK,At-Risk
+D443,Lone Star CDJR,Midwest,MI,Ramp
+D444,River Valley CDJR,Northeast,NJ,Onboarding
+D445,Red Rock CDJR,West,AK,Steady State
+D446,Evergreen CDJR,South,WV,Ramp
+D447,Frontier CDJR,South,DC,Steady State
+D448,Hudson CDJR,Northeast,RI,Mature
+D449,Gulf Coast CDJR,Northeast,CT,Steady State
+D450,Evergreen CDJR,West,NM,Steady State
+D451,Coastal CDJR,Northeast,CT,Ramp
+D452,Trailhead CDJR,South,NC,Onboarding
+D453,Lone Star CDJR,South,OK,Steady State
+D454,Gulf Coast CDJR,Midwest,OH,Ramp
+D455,Metro CDJR,Northeast,PA,Ramp
+D456,Capital CDJR,Midwest,ND,At-Risk
+D457,Pioneer CDJR,Northeast,NJ,At-Risk
+D458,Great Lakes CDJR,Northeast,RI,At-Risk
+D459,Hudson CDJR,South,LA,Steady State
+D460,Evergreen CDJR,South,NC,Mature
+D461,Evergreen CDJR,West,NV,Mature
+D462,Bluegrass CDJR,Midwest,MN,Steady State
+D463,Summit CDJR,Northeast,VT,Ramp
+D464,Twin Cities CDJR,Midwest,IL,Mature
+D465,Acadia CDJR,Midwest,KS,Mature
+D466,Sierra CDJR,Northeast,PA,Mature
+D467,Trailhead CDJR,West,AZ,Steady State
+D468,Frontier CDJR,South,OK,Onboarding
+D469,Trailhead CDJR,Midwest,OH,Steady State
+D470,Red Rock CDJR,West,WY,Steady State
+D471,Liberty CDJR,Midwest,MN,Onboarding
+D472,Lakeside CDJR,West,UT,Onboarding
+D473,Coastal CDJR,Northeast,NY,Steady State
+D474,Liberty CDJR,Northeast,NH,Ramp
+D475,Great Lakes CDJR,West,CO,Onboarding
+D476,Cascade CDJR,Northeast,MA,Onboarding
+D477,Metro CDJR,Northeast,ME,Steady State
+D478,Heritage CDJR,South,KY,Steady State
+D479,Metro CDJR,West,MT,Ramp
+D480,Pioneer CDJR,West,HI,Ramp
+D481,Evergreen CDJR,Northeast,PA,Onboarding
+D482,Evergreen CDJR,South,OK,Onboarding
+D483,River Valley CDJR,West,ID,Steady State
+D484,Pioneer CDJR,Northeast,NH,Steady State
+D485,Hudson CDJR,Midwest,WI,Steady State
+D486,Gulf Coast CDJR,South,VA,Steady State
+D487,Granite CDJR,West,UT,Onboarding
+D488,Liberty CDJR,South,TN,Mature
+D489,High Plains CDJR,Midwest,KS,Steady State
+D490,Hudson CDJR,Midwest,IN,Ramp
+D491,Bluegrass CDJR,Northeast,NH,Ramp
+D492,Evergreen CDJR,West,WY,Mature
+D493,Gulf Coast CDJR,Midwest,IA,Steady State
+D494,River Valley CDJR,West,CA,At-Risk
+D495,Bluegrass CDJR,West,ID,Onboarding
+D496,Coastal CDJR,South,TX,Mature
+D497,Summit CDJR,Northeast,NY,Mature
+D498,Lone Star CDJR,Northeast,VT,Ramp
+D499,Desert CDJR,Midwest,NE,Steady State
+D500,Coastal CDJR,West,HI,Ramp
+D501,Frontier CDJR,Northeast,NJ,Steady State
+D502,Peachtree CDJR,West,OR,Steady State
+D503,Red Rock CDJR,Midwest,MI,At-Risk
+D504,Oak Ridge CDJR,Midwest,MN,Steady State
+D505,Granite CDJR,South,TX,Ramp
+D506,Metro CDJR,Midwest,IL,Steady State
+D507,Capital CDJR,Midwest,MO,Steady State
+D508,Great Lakes CDJR,South,AR,Steady State
+D509,Hudson CDJR,West,AZ,Steady State
+D510,High Plains CDJR,South,GA,Steady State
+D511,High Plains CDJR,Midwest,MN,Onboarding
+D512,Evergreen CDJR,South,KY,At-Risk
+D513,Summit CDJR,Midwest,IL,Ramp
+D514,Metro CDJR,Midwest,ND,Ramp
+D515,Peachtree CDJR,Midwest,IN,Steady State
+D516,Desert CDJR,Northeast,VT,Onboarding
+D517,Oak Ridge CDJR,Midwest,WI,Mature
+D518,Lakeside CDJR,Midwest,OH,Onboarding
+D519,Red Rock CDJR,Midwest,MO,Steady State
+D520,Lakeside CDJR,South,MS,Steady State
+D521,Coastal CDJR,South,KY,Mature
+D522,Great Lakes CDJR,Northeast,MA,Steady State
+D523,Coastal CDJR,South,LA,At-Risk
+D524,Cascade CDJR,Northeast,NJ,Ramp
+D525,Peachtree CDJR,South,AL,Ramp
+D526,Red Rock CDJR,South,DC,Ramp
+D527,Prairie CDJR,South,OK,Mature
+D528,Lone Star CDJR,West,HI,Ramp
+D529,Evergreen CDJR,Northeast,NH,Steady State
+D530,Prairie CDJR,Northeast,PA,Steady State
+D531,Lakeside CDJR,West,CO,Ramp
+D532,River Valley CDJR,Midwest,SD,Steady State
+D533,Evergreen CDJR,South,WV,Onboarding
+D534,Metro CDJR,South,SC,Onboarding
+D535,Red Rock CDJR,West,CO,Ramp
+D536,Capital CDJR,West,CO,Steady State
+D537,Hudson CDJR,West,CA,Steady State
+D538,Evergreen CDJR,Northeast,NY,Steady State
+D539,Red Rock CDJR,Northeast,NY,Ramp
+D540,Frontier CDJR,West,NM,Steady State
+D541,Bluegrass CDJR,South,MS,Mature
+D542,Acadia CDJR,South,TX,Mature
+D543,Cascade CDJR,Northeast,RI,Steady State
+D544,Twin Cities CDJR,Northeast,VT,Steady State
+D545,Sierra CDJR,Northeast,NJ,Onboarding
+D546,Trailhead CDJR,West,AZ,Ramp
+D547,Metro CDJR,South,DC,Steady State
+D548,Coastal CDJR,South,LA,Ramp
+D549,Trailhead CDJR,West,OR,Onboarding
+D550,Lakeside CDJR,Midwest,SD,Onboarding
+D551,Red Rock CDJR,West,NM,Steady State
+D552,Peachtree CDJR,Northeast,CT,Onboarding
+D553,Gulf Coast CDJR,South,FL,At-Risk
+D554,Oak Ridge CDJR,West,OR,Steady State
+D555,Lakeside CDJR,Northeast,PA,Ramp
+D556,Great Lakes CDJR,South,MS,Onboarding
+D557,Summit CDJR,Northeast,ME,Steady State
+D558,Frontier CDJR,Midwest,ND,Ramp
+D559,Heritage CDJR,Northeast,ME,Steady State
+D560,Hudson CDJR,Midwest,IA,Ramp
+D561,Prairie CDJR,South,SC,At-Risk
+D562,Gulf Coast CDJR,Northeast,CT,At-Risk
+D563,Acadia CDJR,Midwest,NE,Steady State
+D564,Oak Ridge CDJR,South,FL,Ramp
+D565,Peachtree CDJR,Midwest,KS,At-Risk
+D566,Lone Star CDJR,Northeast,ME,Steady State
+D567,Sierra CDJR,South,TN,Ramp
+D568,Heritage CDJR,Northeast,RI,Steady State
+D569,Acadia CDJR,Midwest,IN,Ramp
+D570,Heritage CDJR,Midwest,WI,Mature
+D571,Liberty CDJR,Northeast,PA,Steady State
+D572,Acadia CDJR,West,NV,Steady State
+D573,Sierra CDJR,Northeast,ME,Steady State
+D574,Bluegrass CDJR,Northeast,ME,Mature
+D575,Oak Ridge CDJR,Northeast,RI,Ramp
+D576,Desert CDJR,Northeast,NH,Ramp
+D577,Lone Star CDJR,Midwest,SD,Ramp
+D578,Cascade CDJR,South,OK,Ramp
+D579,Lakeside CDJR,South,WV,Mature
+D580,River Valley CDJR,South,DE,Steady State
+D581,Lakeside CDJR,South,DC,Mature
+D582,Hudson CDJR,Northeast,CT,Steady State
+D583,Acadia CDJR,South,GA,At-Risk
+D584,Sierra CDJR,West,WA,Onboarding
+D585,Hudson CDJR,West,HI,Steady State
+D586,Hudson CDJR,South,DC,At-Risk
+D587,Hudson CDJR,West,CA,Steady State
+D588,Bluegrass CDJR,Northeast,RI,Mature
+D589,Hudson CDJR,Midwest,IL,Ramp
+D590,Peachtree CDJR,Midwest,SD,Steady State
+D591,Frontier CDJR,Northeast,VT,Steady State
+D592,Oak Ridge CDJR,South,WV,Steady State
+D593,Sierra CDJR,Midwest,ND,Steady State
+D594,Great Lakes CDJR,South,AR,Ramp
+D595,Frontier CDJR,South,OK,Ramp
+D596,Evergreen CDJR,Northeast,NH,Steady State
+D597,Prairie CDJR,Midwest,WI,Ramp
+D598,Great Lakes CDJR,Midwest,MI,Ramp
+D599,Red Rock CDJR,South,DC,Steady State
+D600,Sierra CDJR,South,NC,Ramp
+D601,Trailhead CDJR,South,DC,Ramp
+D602,Prairie CDJR,South,MS,Ramp
+D603,Great Lakes CDJR,Northeast,NH,Mature
+D604,Heritage CDJR,South,MD,Onboarding
+D605,Heritage CDJR,Northeast,MA,Ramp
+D606,Capital CDJR,West,WY,Onboarding
+D607,Gulf Coast CDJR,South,DC,Ramp
+D608,Trailhead CDJR,South,VA,Steady State
+D609,Summit CDJR,South,AL,At-Risk
+D610,Pioneer CDJR,West,CA,Steady State
+D611,Bluegrass CDJR,South,WV,At-Risk
+D612,River Valley CDJR,Midwest,KS,Ramp
+D613,Sierra CDJR,South,MS,Onboarding
+D614,Bluegrass CDJR,Midwest,OH,Mature
+D615,Peachtree CDJR,South,NC,Ramp
+D616,Capital CDJR,Midwest,MI,At-Risk
+D617,Twin Cities CDJR,West,ID,Mature
+D618,Frontier CDJR,Northeast,VT,Mature
+D619,Red Rock CDJR,Midwest,MO,At-Risk
+D620,Desert CDJR,Midwest,MN,Onboarding
+D621,Gulf Coast CDJR,West,CO,Steady State
+D622,Lone Star CDJR,Northeast,NH,Ramp
+D623,High Plains CDJR,West,NM,At-Risk
+D624,Capital CDJR,South,WV,Steady State
+D625,Oak Ridge CDJR,Northeast,PA,Steady State
+D626,Sierra CDJR,West,CA,Ramp
+D627,Hudson CDJR,West,NM,Ramp
+D628,Metro CDJR,Northeast,PA,Steady State
+D629,Heritage CDJR,West,AZ,Steady State
+D630,Hudson CDJR,Northeast,RI,Onboarding
+D631,Liberty CDJR,West,WY,Steady State
+D632,Capital CDJR,South,TN,Steady State
+D633,Bluegrass CDJR,South,WV,Steady State
+D634,Lone Star CDJR,Northeast,NY,Onboarding
+D635,Twin Cities CDJR,South,DE,Ramp
+D636,Peachtree CDJR,South,DC,Ramp
+D637,Hudson CDJR,Northeast,RI,Ramp
+D638,Twin Cities CDJR,South,TX,Mature
+D639,Acadia CDJR,Northeast,NH,Steady State
+D640,Desert CDJR,South,SC,Steady State
+D641,Bluegrass CDJR,Northeast,CT,Steady State
+D642,Granite CDJR,South,OK,Mature
+D643,Lakeside CDJR,South,NC,At-Risk
+D644,Metro CDJR,Midwest,MI,Steady State
+D645,Prairie CDJR,West,MT,Ramp
+D646,Red Rock CDJR,Midwest,SD,Ramp
+D647,Capital CDJR,Northeast,VT,Ramp
+D648,Granite CDJR,West,UT,Steady State
+D649,Great Lakes CDJR,South,NC,Steady State
+D650,Acadia CDJR,Midwest,MI,Ramp
+D651,Peachtree CDJR,West,AZ,Steady State
+D652,Sierra CDJR,West,AZ,Onboarding
+D653,Liberty CDJR,South,FL,Ramp
+D654,Peachtree CDJR,West,NV,Ramp
+D655,Capital CDJR,West,WA,Onboarding
+D656,River Valley CDJR,South,MD,At-Risk
+D657,Lakeside CDJR,Midwest,ND,Mature
+D658,Trailhead CDJR,South,KY,Onboarding
+D659,Acadia CDJR,South,MD,Steady State
+D660,Lakeside CDJR,South,VA,Steady State
+D661,River Valley CDJR,Midwest,ND,Ramp
+D662,Granite CDJR,South,AR,Steady State
+D663,Gulf Coast CDJR,Midwest,IA,Steady State
+D664,Hudson CDJR,Northeast,NH,Onboarding
+D665,Oak Ridge CDJR,Northeast,PA,Onboarding
+D666,Trailhead CDJR,Midwest,OH,Ramp
+D667,Frontier CDJR,West,CO,At-Risk
+D668,Peachtree CDJR,Northeast,CT,Steady State
+D669,Hudson CDJR,Midwest,MO,At-Risk
+D670,Pioneer CDJR,South,DE,Ramp
+D671,Twin Cities CDJR,Northeast,NH,At-Risk
+D672,Red Rock CDJR,Northeast,CT,Ramp
+D673,Pioneer CDJR,South,GA,At-Risk
+D674,High Plains CDJR,Midwest,SD,Onboarding
+D675,Great Lakes CDJR,West,CO,Steady State
+D676,River Valley CDJR,Northeast,ME,Steady State
+D677,Summit CDJR,Northeast,VT,Mature
+D678,Twin Cities CDJR,West,CO,Steady State
+D679,Oak Ridge CDJR,South,MS,Steady State
+D680,Metro CDJR,South,LA,Mature
+D681,Hudson CDJR,South,KY,Mature
+D682,Lakeside CDJR,West,UT,Ramp
+D683,Granite CDJR,Midwest,OH,Steady State
+D684,Heritage CDJR,Northeast,ME,At-Risk
+D685,Prairie CDJR,South,KY,Onboarding
+D686,Great Lakes CDJR,Midwest,MN,Ramp
+D687,Desert CDJR,Midwest,NE,Steady State
+D688,Hudson CDJR,South,FL,Onboarding
+D689,Twin Cities CDJR,West,NV,Ramp
+D690,Lone Star CDJR,West,MT,Mature
+D691,Trailhead CDJR,Northeast,MA,Steady State
+D692,Trailhead CDJR,Midwest,MI,Steady State
+D693,Cascade CDJR,Northeast,NY,Mature
+D694,Lakeside CDJR,South,MS,Onboarding
+D695,Frontier CDJR,Midwest,ND,Steady State
+D696,Desert CDJR,South,LA,At-Risk
+D697,Hudson CDJR,West,AK,Steady State
+D698,Red Rock CDJR,Midwest,SD,Mature
+D699,Capital CDJR,Northeast,CT,Ramp
+D700,Great Lakes CDJR,West,CO,Onboarding
